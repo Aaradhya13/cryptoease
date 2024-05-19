@@ -1,1 +1,2 @@
-# Hosted link of our project is: http://cryptoeasse.netlify.app
+# Hosted link of our project is: http://cryptoeasse.netlify.app   The PPT link of our project is:https://www.canva.com/design/DAGA6G4XjWY/QXO1DlXuVUHlJrArM2k87w/edit?utm_content=DAGA6G4XjWY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton  And the link to its video sample is:  https://youtu.be/bGDI0e8U2A4 And its DevFolio link is:https://devfolio.co/projects/cryptoease-858e 
+CRYPTOEASE is a Web 3.0 application that integrates the ease of use of the standard UPI apps with biometrics and the metamask sdk to create a seamless user experience.
